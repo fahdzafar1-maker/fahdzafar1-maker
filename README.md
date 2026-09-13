@@ -39,7 +39,7 @@ I build with Claude as my primary development assistant.
 
 ### Stack
 
-`n8n` · `PostgreSQL` · `pgvector` · `OpenAI` · `Docker` · `Railway`
+`n8n` · `PostgreSQL` · `pgvector` · `OpenAI` · `Docker` · `Railway` . 'anthropic'
 
 ---
 
