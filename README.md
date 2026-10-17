@@ -49,3 +49,4 @@ I work asynchronously and in writing — it is how I do my clearest work.
 
 - Email — fahdzafar1@gmail.com
 - LinkedIn — [linkedin.com/in/fahd-z-b57b283a9](https://www.linkedin.com/in/fahd-z-b57b283a9)
+- https://www.fahdaiservices.com
